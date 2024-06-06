@@ -1,0 +1,13 @@
+names:
+- authorized
+- unauthorized
+nc: 2
+roboflow:
+  license: Private
+  project: cat-detection-ny06h
+  url: https://app.roboflow.com/mehmetonalhwt/cat-detection-ny06h/1
+  version: 1
+  workspace: mehmetonalhwt
+test: /home/alperen/Desktop/CAT-DETECTION-1/test/images
+train: /home/alperen/Desktop/CAT-DETECTION-1/train/images
+val: /home/alperen/Desktop/CAT-DETECTION-1/valid/images
